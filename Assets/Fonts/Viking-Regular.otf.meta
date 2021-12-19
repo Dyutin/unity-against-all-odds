@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 296bc893c778443438a7795c5a020701
+guid: 72fd8d9caf97559438bc0c33c8f7666c
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Candle
+  - Viking
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
